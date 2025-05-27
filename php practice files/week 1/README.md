@@ -1,0 +1,1 @@
+So in this week 1, we just learned how to do laravel I think and then we just did composer and added php to our computers. And also we added some xampp local server hoster. 
