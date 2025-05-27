@@ -1,7 +1,13 @@
-## License
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Hello welcome to my C401_Dynamic Programming Github Repo Folder
+
+
+
+current submodules (github repos):
+1. C401_week 4:
+github url: https://github.com/Michael679089/C401_week-4
+
 ------
-My instructor updated this folder because the key was broken.
+
 If `week 4_w3 update` is a submodule, the **files physically exist inside the `week 4_w3 update` folder on your local machine**, just like any other folder. However:
 - **In your main repository:**  
   Only a reference (a pointer to a specific commit in the submodule’s repository) is stored, not the actual files.
